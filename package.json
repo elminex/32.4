@@ -1,0 +1,23 @@
+{
+  "name": "32.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+    "test:watch": "mocha index.test.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elminex/32.4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elminex/32.4/issues"
+  },
+  "homepage": "https://github.com/elminex/32.4#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
